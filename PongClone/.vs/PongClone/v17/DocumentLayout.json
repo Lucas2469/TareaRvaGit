@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LUCAS\\PongClone\\",
+  "WorkspaceRootPath": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AB1FF52-2F5B-412A-D090-FF63BE4B3164}|Assembly-CSharp.csproj|c:\\users\\lucas\\pongclone\\assets\\scripts\\paddleleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB1FF52-2F5B-412A-D090-FF63BE4B3164}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddleleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\PaddleRight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PaddleRight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\PaddleLeft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PaddleLeft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PaddleLeft.cs",
-              "DocumentMoniker": "C:\\Users\\LUCAS\\PongClone\\Assets\\Scripts\\PaddleLeft.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PaddleLeft.cs",
-              "ToolTip": "C:\\Users\\LUCAS\\PongClone\\Assets\\Scripts\\PaddleLeft.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PaddleLeft.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAswK4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T12:34:42.744Z",
+              "WhenOpened": "2025-10-02T13:32:11.835Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaddleRight.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\PaddleRight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PaddleRight.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\PaddleRight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PaddleRight.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAswGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:23:43.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaddleLeft.cs",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\PaddleLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PaddleLeft.cs",
+              "ToolTip": "C:\\Users\\Tatiana\\Documents\\GitHub\\TareaRvaGit\\PongClone\\Assets\\Scripts\\PaddleLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PaddleLeft.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:34:42.744Z"
             }
           ]
         }
