@@ -1,0 +1,22 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+# VS/VSCode
+.vs/
+.vscode/
+# Archivos solución/proyecto (opcional, si usas VS/VSCode puedes ignorarlos también)
+*.csproj
+*.sln
+*.user
+*.unitypackage
+# Mantener estas rutas
+!Assets/
+!ProjectSettings/
+!Packages/manifest.json
+!Packages/packages-lock.json
